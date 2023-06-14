@@ -1,0 +1,51 @@
+destination_id,destination,country,popular_season
+1,Utrecht,Netherlands,autumn
+2,Tel Aviv,Israel,autumn
+3,Novosibirsk,Russia,autumn
+4,Seville,Spain,autumn
+5,Belfast,Northern Ireland,autumn
+6,Northern Ireland,Canada,autumn
+7,Tuscany,Italy,autumn
+8,Mount Fuji,Japan,autumn
+9,Lisbon,Portugal,autumn
+10,Lodz,Poland,autumn
+11,Patagonia,Argentina,autumn
+12,Markt Hartmannsdorf,Austria,autumn
+13,Tokyo,Japan,spring
+14,Keukenhof,Netherlands,spring
+15,Washington DC,USA,spring
+16,Hitachi Seaside Park,Japan,spring
+17,Seoul,South Korea,spring
+18,Castelluccio,Italy,spring
+19,Skagit Valley,USA,spring
+20,Jerte Valley,Spain,spring
+21,Bonn,Germany,spring
+22,Provence,France,spring
+23,Zermatt,Switzerland,summer
+24,Bali,Indonesia,summer
+25,Pokhara,Nepal,summer
+26,Hamburg,Germany,summer
+27,Whistler,Canada,summer
+28,Vik,Iceland,summer
+29,London,United Kingdom,summer
+30,Maafushi,Maldives,summer
+31,Santorini,Greece,summer
+32,Maui,Hawaii,summer
+33,Chicago,USA,winter
+34,Plitvice Lakes National Park,Croatia,winter
+35,Jigokudani Monkey Park,Japan,winter
+36,Banff National Park,Canada,winter
+37,Hallstatt,Austria,winter
+38,Richmond Park,United Kingdom,winter
+39,Gobi Desert,Mongolia,winter
+40,Bruges,Belgium,winter
+41,Schloss Neuschwanstein,Germany,winter
+42,Trakai Castle,Lithuania,winter
+43,High Atlas Mountains,Morocco,winter
+44,Queenstown,New Zealand,winter
+45,Lapland,Finland,winter
+46,Prague,Czech Republic,winter
+47,Lake Bled,Slovenia,winter
+48,Pamir Mountains,Tajikistan,winter
+49,Harbin,China,winter
+50,Reykjavik,Iceland,winter
